@@ -122,6 +122,21 @@ An enterprise-grade Document AI system. It combines a document preprocessing pip
 
 **Tech stack:** Python, RAG, LLMs, AI Agents, FastAPI
 
+
+#### [TeamDocs-AI](https://github.com/Vexonova-ai/TeamDocs-AI)
+
+![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6366F1?style=flat-square)
+![MCP](https://img.shields.io/badge/GitHub%20MCP-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+A software-engineering assistant for development teams. It combines retrieval-augmented generation (RAG) over team documentation with GitHub integration through MCP and an issue-analysis agent, so engineers can get answers grounded in their own docs and repositories.
+
+**Tech stack:** Python, RAG, LLMs, AI Agents, GitHub MCP
+
+
+
 ### ✅ Completed & Flagship Projects
 
 #### [Safety Monitoring System](https://github.com/AI-Builders-Iran/IAI-001-Safety-Monitoring-System)
