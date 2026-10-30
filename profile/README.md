@@ -110,7 +110,7 @@ We value engineering quality, experimentation, open-source collaboration, and co
 
 ### 🚧 In Progress
 
-#### [DocumentAI](https://github.com/AI-Builders-Iran/DocumentAI)
+#### [ChemLib-AI](https://github.com/Vexonova-ai/ChemLib-AI)
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
